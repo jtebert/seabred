@@ -1,5 +1,5 @@
 Functions
 =========
 
-.. currentmodule:: seabred
+.. currentmodule:: seabred.plotting
 .. autofunction:: lineplot
