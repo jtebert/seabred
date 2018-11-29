@@ -31,11 +31,13 @@ def lineplot(x, y, ctr_type='mean', err_type='std', show_trials=False, **kwargs)
         numpy.nanmean)
     err_type : str, optional
         Which error type to show for shading. Options are:
-        - 'std': Standard deviation
-        - '95ci': 95% confidence interval
-        - 'quartile': [25%, 75%] confidence interval
-        - None: No error plotting
-        (the default is 'std', which is standard deviation)
+
+        - **std**: Standard deviation
+        - **95ci**: 95% confidence interval
+        - **quartile**: [25%, 75%] confidence interval
+        - **None**: No error plotting
+
+        (the default is ``'std'``, which is standard deviation)
     show_trials : bool, optional
         Whether or not to show plots of the individual trials (each row of y
         data). (the default is False, which means only summary data shown)
