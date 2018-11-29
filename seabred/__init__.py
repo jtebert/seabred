@@ -1,1 +1,3 @@
-from plotting import *
+from .plotting import *
+
+name = 'seabred'
