@@ -4,6 +4,10 @@ Custom plotting extras meant to go with Seaborn, for numpy arrays instead of dat
 
 Sea*born* -> Sea*bred* (Get it?)
 
+[PyPi](https://pypi.org/project/seabred/)
+
+[Documentation](https://seabred.readthedocs.io/en/latest/)
+
 ## Install
 
 `pip install seabred`
