@@ -6,4 +6,4 @@ Functions
  
 .. automodule:: seabred
    :members:
- 
+   :imported-members: 
