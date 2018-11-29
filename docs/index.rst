@@ -11,7 +11,3 @@ Welcome to Seabred's documentation!
    :caption: Contents:
 
    functions
-
-
-.. automodule:: seabred
-   :members:
