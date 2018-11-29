@@ -1,5 +1,6 @@
 Functions
 =========
 
-.. currentmodule:: seabred.plotting
-.. autofunction:: lineplot
+.. automodule:: seabred
+   :members:
+ 
