@@ -1,5 +1,5 @@
 from .plotting import *
 
-__all__ = ['plotting']
+__all__ = ['lineplot']
 
 name = 'seabred'
